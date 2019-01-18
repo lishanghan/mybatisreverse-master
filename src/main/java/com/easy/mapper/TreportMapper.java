@@ -1,7 +1,7 @@
-package com.haier.mapper;
+package com.easy.mapper;
 
-import com.haier.po.Treport;
-import com.haier.po.TreportExample;
+import com.easy.po.Treport;
+import com.easy.po.TreportExample;
 import java.util.List;
 import org.apache.ibatis.annotations.Param;
 
