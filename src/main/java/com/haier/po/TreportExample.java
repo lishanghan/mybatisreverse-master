@@ -1,4 +1,4 @@
-package com.easy.po;
+package com.haier.po;
 
 import java.util.ArrayList;
 import java.util.Date;
